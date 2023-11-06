@@ -1,2 +1,4 @@
 # SoftwareDashboard
-NPM CLI
+NPM
+CLI COMMAND
+Json-serve --server.json
